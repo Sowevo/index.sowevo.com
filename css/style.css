@@ -3313,10 +3313,9 @@ a {
 }
 
 body {
-	overflow: hidden;
 	height: 100%;
 	font-size: 100%;
-	background: linear-gradient(#072b4f, #0e375d,#1a517b,#2d74a2,#559ebb,#8dc1b8,#b7c592,#ddaf5c,#e99340,#ee8434,#f48d38);
+	background: url(../img/background.png) repeat-x center center;
 	background-attachment: fixed;
 	overflow: hidden;
 	font-family: MyriadSetPro-Thin, "Microsoft YaHei", "Microsoft Jhenghei", "Hiragino Sans GB", sans-serif;
