@@ -3852,3 +3852,9 @@ ul li a strong {
 		margin: 0 0 15px 25px
 	}
 }
+
+.gray {
+    -webkit-filter: grayscale(1); /* Webkit */  
+    filter: gray; /* IE6-9 */    
+    filter: grayscale(1); /* W3C */  
+}
